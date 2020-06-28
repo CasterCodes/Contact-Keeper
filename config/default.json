@@ -1,0 +1,4 @@
+{
+    "mongoURL":"mongodb+srv://root2:code@castercluster-udpu7.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
